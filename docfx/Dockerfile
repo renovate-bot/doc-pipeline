@@ -13,7 +13,7 @@
 # limitations under the License.
 
 # Use the official Python 3.12 image based on Debian Bookworm
-FROM python:3.12
+FROM python:3.12-bookworm
 
 # Set environment variables
 # DEBIAN_FRONTEND=noninteractive prevents interactive prompts during package installation
