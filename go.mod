@@ -1,11 +1,11 @@
 module github.com/googleapis/doc-pipeline
 
-go 1.23.0
+go 1.24.0
 
 require (
 	cloud.google.com/go/storage v1.42.0
 	github.com/cheggaaa/pb/v3 v3.1.4
-	golang.org/x/sync v0.12.0
+	golang.org/x/sync v0.19.0
 	google.golang.org/api v0.183.0
 )
 
